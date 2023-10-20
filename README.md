@@ -22,7 +22,7 @@ To use the Simple Express.js API, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd express-api
+   cd simpleAPI
    ```
 
 3. Install the required dependencies:
