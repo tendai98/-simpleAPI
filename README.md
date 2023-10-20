@@ -1,6 +1,7 @@
 # Simple Express.js API
 
-The Simple Express.js API is a basic RESTful API built with Express.js. It's designed to handle simple data operations, making it easy to create, retrieve, update, and delete data. You can deploy this API on platforms like Heroku for easy access.
+The Simple Express.js API is a basic RESTful API built with Express.js
+Its just a small project I worked on to see how Express.js works and whatyou can do with it
 
 ## Table of Contents
 
