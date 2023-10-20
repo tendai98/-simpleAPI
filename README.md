@@ -16,7 +16,7 @@ To use the Simple Express.js API, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/express-api.git
+   git clone https://github.com/tendai98/simpleAPI.git
    ```
 
 2. Navigate to the project directory:
